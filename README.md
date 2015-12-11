@@ -1,4 +1,4 @@
-# javaprojects
+# multi_gradle
 [gradle multiple projects](http://rominirani.com/2014/07/29/gradle-tutorial-part-3-multiple-java-projects/)
 
 **Add Eclipse Project Steps**
