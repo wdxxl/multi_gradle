@@ -3,7 +3,7 @@
 
 **Add Eclipse Project Steps**
 
-1. cd javaprojects
+1. cd multi_gradle
 2. gradle build
 3. gradle cleanEclipse eclipse
 4. ./gradlew cleanEclipse eclipse
